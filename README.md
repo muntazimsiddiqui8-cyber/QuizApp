@@ -1,9 +1,7 @@
 # QuizApp 🎯
 
 A simple, single-page quiz application built with HTML, CSS and JavaScript — perfect for quick practice and demos. 🚀
-
 <br>
-
 ## 🔗 [Visit the Live Project ✨](https://quiz-10app.netlify.app/)
 
 <br>
@@ -13,14 +11,14 @@ A simple, single-page quiz application built with HTML, CSS and JavaScript — p
 - Score calculation and final result 🎯
 - Next / Restart flow 🔁
 - Responsive layout (basic) 📱💻
-
+  
 <br>
 
 ## Files 📁
 - `index.html` — main HTML page 🧩  
 - `styles.css` — styles for layout and UI 🎨  
 - `script.js` — quiz logic and interactions ⚙️
-
+  
 <br>
 
 ## Contributing 🤝
